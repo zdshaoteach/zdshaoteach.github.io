@@ -1,11 +1,14 @@
-# Workshop by HEP Software Foundation, IRIS-HEP and University of Puerto Rico-Mayaguez
+# Teaching activities
 
-This is the Workshop Website for a workshop organized by  HEP Software Foundation, IRIS-HEP and University of Puerto Rico-Mayaguez on March 28 and 29 2022. It will cover the Software Carpentry lessons of: 
 
-[The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+## Software Carpentry
 
-[Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-[Version Control with Git](https://swcarpentry.github.io/git-novice/)
+- [2022-03-28-upr-online](https://indico.cern.ch/event/1112526/)
 
-For more information visit: https://indico.cern.ch/event/1112526/
+
+- [2022-05-16-tudelft-online](https://4turesearchdata-carpentries.github.io/2022-05-16-tudelft-online/)
+
+
+
+## website videos
